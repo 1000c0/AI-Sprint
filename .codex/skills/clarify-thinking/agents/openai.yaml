@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clarify Thinking"
+  short_description: "Ask until ideas become concrete"
+  default_prompt: "Use $clarify-thinking to help me turn a vague idea into a concrete direction by asking focused questions."

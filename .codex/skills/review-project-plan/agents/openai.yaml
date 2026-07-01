@@ -1,4 +1,0 @@
-interface:
-  display_name: "Review Project Plan"
-  short_description: "Find gaps and risks in early plans"
-  default_prompt: "Use $review-project-plan to review my early project topic, plan, and schedule for missing parts, feasibility risks, and improvements."

@@ -1,5 +1,5 @@
 ---
-name: clarify-thinking
+name: d3.skill_clarify-thinking
 description: Help a user turn vague thoughts, ideas, goals, requirements, plans, writing topics, product concepts, or decisions into concrete direction by asking focused clarifying questions instead of guessing. Use when the user explicitly wants to develop their thinking through questions, says not to assume, presents an ambiguous idea, or needs requirements, success criteria, constraints, priorities, audience, scope, or next actions clarified before execution.
 ---
 

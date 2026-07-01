@@ -1,5 +1,5 @@
 ---
-name: review-project-plan
+name: d3.skill_review-project-plan
 description: Review an early-stage project topic, concept, brief, plan, proposal, product idea, research plan, implementation plan, or schedule for missing pieces, weak assumptions, unrealistic scope, timeline risk, unclear success criteria, dependency risk, and concrete improvements. Use when Codex is asked to critique or strengthen a project before execution, especially at the planning or proposal stage.
 ---
 
